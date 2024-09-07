@@ -29,16 +29,15 @@ This project aims to develop a **smart street lighting system** that enhances en
 
 - **NodeMCU (ESP8266)**: Microcontroller for controlling the system.
 - **Light Dependent Resistor (LDR)**: For detecting ambient light.
-- **PIR/Ultrasonic Sensor**: For motion detection.
 - **Servo Motor**: For the rotating mechanism.
 - **Motor**: For the cleaning mechanism.
 - **LED**: Represents the street light.
-- **Relay Module**: To control the power of the LED light.
 - **Power Supply**: 5V and 12V for NodeMCU and motors.
 
 ## Circuit Diagram
 
-(Include the circuit diagram here, or provide a link to the image if hosted elsewhere.)
+(https://github.com/user-attachments/assets/03447b34-56d9-441a-a6c1-8f95936ac680)
+
 
 ## Code Explanation
 
