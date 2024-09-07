@@ -36,7 +36,7 @@ This project aims to develop a **smart street lighting system** that enhances en
 
 ## Circuit Diagram
 
-(https://github.com/user-attachments/assets/03447b34-56d9-441a-a6c1-8f95936ac680)
+https://github.com/user-attachments/assets/03447b34-56d9-441a-a6c1-8f95936ac680
 
 
 ## Code Explanation
